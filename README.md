@@ -28,7 +28,7 @@ Continue will take you to first window while Exit will close program
   
   
   
-**NOTE : **  
+**NOTE :**  
 1) Downloaded Videos will be stored to path **"/home/username/Downloads/ytd_downloads"**  
 2) Thumbnails of Videos will be stored to path **"/home/username/ytd_cache"**
 
