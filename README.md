@@ -12,12 +12,12 @@ This program will run only on linux based oprating system.
 Note : Make sure you have pip installed in your machine.  
 
 # Instructions :  
-*This application consists of three windows.  
+* This application consists of three windows.  
 * **First Window :**  
 In first window enter url of required video and hit enter.  
 ![alt text](https://raw.githubusercontent.com/RudreshVeerkhare/YouTube_Downloader/master/readme_imgs/window_1.png "First Window")
 * **Second Window :**  
-It will take some time to load second window. In second window there will be option for selecting available resolution of video and a image of video thumbnail alongwith title of video at top.  
+It will take some time to load second window. In second window there will be option for selecting available resolution of video and a image of video thumbnail alongwith title of video will be shown on window.  
 ![second window image](https://raw.githubusercontent.com/RudreshVeerkhare/YouTube_Downloader/master/readme_imgs/window_2.png "second window")
 * **Third Window :**  
 Third window is to show the progress of download  
